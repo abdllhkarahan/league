@@ -1,0 +1,54 @@
+body
+{
+  padding: 24px;
+  background-image: url(https://store-images.s-microsoft.com/image/apps.22126.13920081542607282.9065fa3e-8bda-4ef9-a929-03a073c901b9.0044fa1e-8f23-4a2f-838d-045964ae4ea2?mode=scale&q=90&h=720&w=1280);
+}
+
+#mainDiv
+{
+  padding: 1px;
+  background-color: #2f224f;
+  border: 2px gray solid;
+  width: 770px;
+}
+
+table, th, td
+{
+  border: 2px solid gray;
+  border-collapse: collapse;
+}
+
+th, td
+{
+  text-align: center;
+  height: 40px;
+}
+
+#teams
+{
+  width: 150px;
+}
+
+#leagueTable
+{
+  width: 100px;
+}
+
+#champPer
+{
+  background-color: white;
+  float: right;
+  margin: -326px 200px;
+}
+
+button
+{
+  padding: 5px;
+  margin-left: 540px;
+  width: 100px;
+}
+
+#finishLeague
+{
+  margin: 10px 10px;
+}
